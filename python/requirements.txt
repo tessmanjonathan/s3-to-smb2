@@ -1,0 +1,14 @@
+# SMB2 S3-to-FileShare Transfer Tool Requirements
+# Pin versions for reproducible builds
+
+boto3==1.34.162
+botocore==1.34.162
+smbprotocol==1.13.0
+cryptography==41.0.7
+pyspnego==0.10.2
+ntlm-auth==1.5.0
+six==1.16.0
+jmespath==1.0.1
+python-dateutil==2.8.2
+urllib3==2.0.7
+s3transfer==0.10.2
